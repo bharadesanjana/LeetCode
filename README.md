@@ -29,6 +29,7 @@ hey...!!!!!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharadesanjana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bharadesanjana/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bharadesanjana/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0290-word-pattern](https://github.com/bharadesanjana/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharadesanjana/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ hey...!!!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharadesanjana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0290-word-pattern](https://github.com/bharadesanjana/LeetCode/tree/main/0290-word-pattern/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
