@@ -50,6 +50,7 @@ hey...!!!!!!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharadesanjana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/bharadesanjana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/bharadesanjana/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/bharadesanjana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/bharadesanjana/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/bharadesanjana/LeetCode/tree/main/0344-reverse-string/) | Easy |
