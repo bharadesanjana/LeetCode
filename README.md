@@ -39,6 +39,7 @@ hey...!!!!!!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bharadesanjana/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/bharadesanjana/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/bharadesanjana/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bharadesanjana/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -153,4 +154,8 @@ hey...!!!!!!
 | [0112-path-sum](https://github.com/bharadesanjana/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/bharadesanjana/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/bharadesanjana/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bharadesanjana/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
