@@ -11,6 +11,7 @@ hey...!!!!!!
 | [0066-plus-one](https://github.com/bharadesanjana/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/bharadesanjana/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bharadesanjana/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/bharadesanjana/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/bharadesanjana/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharadesanjana/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -32,6 +33,7 @@ hey...!!!!!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharadesanjana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bharadesanjana/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bharadesanjana/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bharadesanjana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/bharadesanjana/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/bharadesanjana/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -77,6 +79,7 @@ hey...!!!!!!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bharadesanjana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/bharadesanjana/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Stack
