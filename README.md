@@ -14,6 +14,7 @@ hey...!!!!!!
 | [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/bharadesanjana/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/bharadesanjana/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharadesanjana/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bharadesanjana/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
