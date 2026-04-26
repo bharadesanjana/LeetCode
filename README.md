@@ -10,6 +10,7 @@ hey...!!!!!!
 | [0033-search-in-rotated-sorted-array](https://github.com/bharadesanjana/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/bharadesanjana/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/bharadesanjana/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0189-rotate-array](https://github.com/bharadesanjana/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bharadesanjana/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/bharadesanjana/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -22,6 +23,7 @@ hey...!!!!!!
 | [0011-container-with-most-water](https://github.com/bharadesanjana/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bharadesanjana/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bharadesanjana/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0189-rotate-array](https://github.com/bharadesanjana/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/bharadesanjana/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/bharadesanjana/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
@@ -100,6 +102,7 @@ hey...!!!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/bharadesanjana/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/bharadesanjana/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
