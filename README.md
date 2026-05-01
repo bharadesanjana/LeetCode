@@ -64,6 +64,7 @@ hey...!!!!!!
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharadesanjana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/bharadesanjana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/bharadesanjana/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/bharadesanjana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/bharadesanjana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/bharadesanjana/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/bharadesanjana/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -105,6 +106,7 @@ hey...!!!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/bharadesanjana/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/bharadesanjana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/bharadesanjana/LeetCode/tree/main/0189-rotate-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -174,5 +176,10 @@ hey...!!!!!!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/bharadesanjana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1929-concatenation-of-array](https://github.com/bharadesanjana/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/bharadesanjana/LeetCode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
