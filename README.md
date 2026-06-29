@@ -12,6 +12,7 @@ hey...!!!!!!
 | [0066-plus-one](https://github.com/bharadesanjana/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/bharadesanjana/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/bharadesanjana/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bharadesanjana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/bharadesanjana/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bharadesanjana/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -188,4 +189,8 @@ hey...!!!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/bharadesanjana/LeetCode/tree/main/0067-add-binary/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bharadesanjana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
