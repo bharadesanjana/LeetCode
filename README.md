@@ -25,6 +25,7 @@ hey...!!!!!!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bharadesanjana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/bharadesanjana/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/bharadesanjana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/bharadesanjana/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -67,6 +68,7 @@ hey...!!!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharadesanjana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/bharadesanjana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/bharadesanjana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/bharadesanjana/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/bharadesanjana/LeetCode/tree/main/0067-add-binary/) | Easy |
@@ -192,5 +194,6 @@ hey...!!!!!!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bharadesanjana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharadesanjana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
