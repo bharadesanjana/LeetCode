@@ -13,6 +13,7 @@ hey...!!!!!!
 | [0074-search-a-2d-matrix](https://github.com/bharadesanjana/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/bharadesanjana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharadesanjana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/bharadesanjana/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/bharadesanjana/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bharadesanjana/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -43,6 +44,7 @@ hey...!!!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharadesanjana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/bharadesanjana/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bharadesanjana/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bharadesanjana/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -196,4 +198,8 @@ hey...!!!!!!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bharadesanjana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharadesanjana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bharadesanjana/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
