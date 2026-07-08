@@ -35,6 +35,7 @@ hey...!!!!!!
 | [0189-rotate-array](https://github.com/bharadesanjana/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/bharadesanjana/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/bharadesanjana/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/bharadesanjana/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/bharadesanjana/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ hey...!!!!!!
 | [0242-valid-anagram](https://github.com/bharadesanjana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/bharadesanjana/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/bharadesanjana/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0647-palindromic-substrings](https://github.com/bharadesanjana/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ hey...!!!!!!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bharadesanjana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharadesanjana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0647-palindromic-substrings](https://github.com/bharadesanjana/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
