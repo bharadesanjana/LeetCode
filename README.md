@@ -14,6 +14,7 @@ hey...!!!!!!
 | [0075-sort-colors](https://github.com/bharadesanjana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharadesanjana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/bharadesanjana/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/bharadesanjana/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0189-rotate-array](https://github.com/bharadesanjana/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bharadesanjana/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -47,6 +48,7 @@ hey...!!!!!!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bharadesanjana/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/bharadesanjana/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0139-word-break](https://github.com/bharadesanjana/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bharadesanjana/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bharadesanjana/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -76,6 +78,7 @@ hey...!!!!!!
 | [0020-valid-parentheses](https://github.com/bharadesanjana/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/bharadesanjana/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/bharadesanjana/LeetCode/tree/main/0067-add-binary/) | Easy |
+| [0139-word-break](https://github.com/bharadesanjana/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/bharadesanjana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/bharadesanjana/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/bharadesanjana/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -204,6 +207,7 @@ hey...!!!!!!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bharadesanjana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharadesanjana/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/bharadesanjana/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0647-palindromic-substrings](https://github.com/bharadesanjana/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -213,4 +217,12 @@ hey...!!!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/bharadesanjana/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/bharadesanjana/LeetCode/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/bharadesanjana/LeetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
