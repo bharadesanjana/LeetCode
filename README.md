@@ -9,6 +9,7 @@ hey...!!!!!!
 | [0011-container-with-most-water](https://github.com/bharadesanjana/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/bharadesanjana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/bharadesanjana/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0056-merge-intervals](https://github.com/bharadesanjana/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/bharadesanjana/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/bharadesanjana/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/bharadesanjana/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -111,6 +112,7 @@ hey...!!!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/bharadesanjana/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0056-merge-intervals](https://github.com/bharadesanjana/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/bharadesanjana/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/bharadesanjana/LeetCode/tree/main/0242-valid-anagram/) | Easy |
