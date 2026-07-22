@@ -10,6 +10,7 @@ hey...!!!!!!
 | [0015-3sum](https://github.com/bharadesanjana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/bharadesanjana/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0056-merge-intervals](https://github.com/bharadesanjana/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/bharadesanjana/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/bharadesanjana/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/bharadesanjana/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/bharadesanjana/LeetCode/tree/main/0075-sort-colors/) | Medium |
