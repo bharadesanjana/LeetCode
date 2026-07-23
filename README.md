@@ -142,6 +142,7 @@ hey...!!!!!!
 | [0066-plus-one](https://github.com/bharadesanjana/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/bharadesanjana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/bharadesanjana/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/bharadesanjana/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +221,7 @@ hey...!!!!!!
 | ------- | ------- |
 | [0067-add-binary](https://github.com/bharadesanjana/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0190-reverse-bits](https://github.com/bharadesanjana/LeetCode/tree/main/0190-reverse-bits/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/bharadesanjana/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
