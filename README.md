@@ -21,6 +21,7 @@ hey...!!!!!!
 | [0189-rotate-array](https://github.com/bharadesanjana/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bharadesanjana/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/bharadesanjana/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/bharadesanjana/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/bharadesanjana/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/bharadesanjana/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/bharadesanjana/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
@@ -106,6 +107,7 @@ hey...!!!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bharadesanjana/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/bharadesanjana/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/bharadesanjana/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
