@@ -9,6 +9,7 @@ hey...!!!!!!
 | [0011-container-with-most-water](https://github.com/bharadesanjana/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/bharadesanjana/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/bharadesanjana/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/bharadesanjana/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0056-merge-intervals](https://github.com/bharadesanjana/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/bharadesanjana/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/bharadesanjana/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -249,4 +250,8 @@ hey...!!!!!!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/bharadesanjana/LeetCode/tree/main/0139-word-break/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/bharadesanjana/LeetCode/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
